@@ -1,0 +1,13 @@
+{
+  "appId": "com.webtoapp.appn0m69y",
+  "appName": "营口外阜CRM",
+  "webDir": "www",
+  "server": {
+    "url": "https://app-a964vqz93e9t.appmiaoda.com/login",
+    "cleartext": true,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
